@@ -1,8 +1,8 @@
 name: my_map_pck
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Prabha Subramani<prabhakaran.s@skeintech.com>
+homepage: https://github.com/prabha024/my_map_pck/tree/master/secondPackage/my_map_pck
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  google_maps_flutter: ^0.5.28+1
 
 dev_dependencies:
   flutter_test:
